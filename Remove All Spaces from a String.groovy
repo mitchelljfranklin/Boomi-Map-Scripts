@@ -1,0 +1,2 @@
+
+outputValue = inputValue.replaceAll("\\s","")

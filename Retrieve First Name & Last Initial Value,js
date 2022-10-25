@@ -1,0 +1,12 @@
+
+if (name.indexOf(' ') > -1) {
+
+var temp = name.split(" ");
+nameinitialresult = temp[0] + " " + temp[1].charAt(0);
+
+    
+} else {
+    
+  nameinitialresult = name  
+    
+}
